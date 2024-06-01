@@ -1,5 +1,5 @@
 # Whispers Of Vulnerability
-[Original Design Inspiration](https://www.tiktok.com/@roizenx/video/732996139426098714
+[Original Design Inspiration] (https://www.tiktok.com/@roizenx/video/732996139426098714
 
 
 # License
